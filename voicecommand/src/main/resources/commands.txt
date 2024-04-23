@@ -1,0 +1,11 @@
+Open Chrome: Opens Google Chrome.
+Close Chrome: Closes Google Chrome.
+Search: Activates search mode.
+Open YouTube: Opens YouTube in Google Chrome.
+Close YouTube: Closes YouTube in Google Chrome.
+Music: Plays music on YouTube in Google Chrome.
+Stop Music: Stops music playback in Google Chrome.
+Open the Game: Opens the Snake Game.
+Close the Game: Closes the Snake Game.
+
+
