@@ -1,7 +1,6 @@
 # javavoicecommand
-
-![image](https://github.com/nilesh2630/javavoicecommand/assets/97802199/7d64635f-f913-4a3d-92b0-49e4483301ef)
-this is starting image of GUI
+this is starting page of GUI
+![image](https://github.com/nilesh2630/javavoicecommand/assets/97802199/021ecc22-2d96-4f4d-9eb9-b1a3e0215f9e)
 when i will speak something it will display to my GUI
 ![image](https://github.com/nilesh2630/javavoicecommand/assets/97802199/d20b7716-8111-432b-bf35-ae2eff7a1cca)
 and it will open my chrome tab
